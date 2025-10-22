@@ -182,6 +182,7 @@ docker run -p 8501:8501 rag-chatbot
 
 ### 🚀 Deploy Linki
 **Canlı Demo**: [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+(https://huggingface.co/spaces/EdaNurErgin/rag-chatbot)
 
 ### 📱 Arayüz Özellikleri
 
