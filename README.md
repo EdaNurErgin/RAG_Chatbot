@@ -260,5 +260,5 @@ docker run -p 8501:8501 rag-chatbot
    - Kaynak uygunluğu
    - Bağlam korunması
 
-### 📸 Ekran Görüntüleri
+
 
