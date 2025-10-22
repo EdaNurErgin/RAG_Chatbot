@@ -1,0 +1,23 @@
+# Streamlit web framework
+streamlit==1.38.0
+
+# LangChain ekosistemi
+langchain==0.3.0
+langchain-core==0.3.0
+langchain-community==0.3.0
+langchain-huggingface==0.1.0
+langchain-text-splitters==0.3.0
+
+# Hugging Face & ML
+huggingface-hub==0.25.0
+sentence-transformers==3.0.1
+transformers==4.44.0
+
+# Vektör veritabanı
+faiss-cpu==1.8.0
+
+# Döküman işleme
+pypdf==4.3.1
+
+# Utilities
+python-dotenv==1.0.1
